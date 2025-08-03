@@ -1,0 +1,6 @@
+.app {
+  padding: 80px 16px 0 16px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
