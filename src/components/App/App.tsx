@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import SearchBar from '../SearchBar/SearchBar'
-import fetchMovies from '../../services/movieServies';
+import fetchMovies from '../../services/movieService';
 import MovieGrid from '../MovieGrid/MovieGrid';
 import Loader from '../Loader/Loader';
 import ErrorMessage from '../ErrorMessage/ErrorMessage';
